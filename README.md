@@ -2,13 +2,13 @@
 
 Links for HTML:
 
-####Reset file:
+Reset file:
 https://cdn.jsdelivr.net/gh/deynnialmazan/cdn@latest/reset.css 
 
-####Utils functions:
+Utils functions:
 https://cdn.jsdelivr.net/gh/deynnialmazan/cdn@latest/utils.js
 
-####Icon:
+Icon:
 https://cdn.jsdelivr.net/gh/deynnialmazan/cdn@latest/favicon.png
 
 
